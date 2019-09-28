@@ -1,4 +1,4 @@
 class Dog
 end
-  lassie.Dog.new
+  lassie = Dog.new
   lassie
