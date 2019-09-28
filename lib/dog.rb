@@ -1,5 +1,5 @@
 class Dog
-  def name do (dog_name)
+  def name = (dog_name)
     lassie = Dog.new
       lassie.name = 'Lassie'
     this_dogs_name = dog_name
