@@ -2,7 +2,7 @@ class Dog
   def name (dog_name)
     lassie = Dog.new
       lassie.name = 'Lassie'
-    this_dogs_name = dog_name
+   def this_dogs_name = dog_name
   end
  
   def name
